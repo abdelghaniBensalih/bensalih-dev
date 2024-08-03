@@ -1834,11 +1834,6 @@ input, select, textarea {
 			border: 0;
 		}
 
-/* Form 
-
-*/
-
-
 /* Contact Section */
 #contact {
     padding: 2em 0;
@@ -1943,10 +1938,10 @@ input, select, textarea {
 	}
 
 		.item header {
-			background: #fff;
+			background: #eff3f3;
 			margin: 0;
 			padding: 1em 0 1em 0;
-			font-size: 0.8em;
+			font-size: 0.9em;
 		}
 
 			.item header h3 {
